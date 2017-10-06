@@ -1,0 +1,29 @@
+.bar {
+  fill: lightgreen;
+}
+
+.bar:hover {
+  fill: steelblue;
+}
+
+.axis--x path {
+  display: none;
+}
+
+body{
+  background-color: pink;
+}
+
+h1{
+  font-family: arial;
+  color: steelblue;
+}
+
+text{
+  fill: steelblue;
+  font-family: arial;
+  font-size: 14px;
+}
+path, line{
+  stroke: steelblue;
+}
