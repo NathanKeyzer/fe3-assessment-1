@@ -14,10 +14,4 @@ Voor mijn asssessment 1 heb ik een visualisatie gemaakt met [data](https://githu
 * `language` - Naam van taal
 * `speakers` - Geschat aantal sprekers
 
-**Data** section listing all d3 features used and linking to API docs
-
-**Features** section listing all d3 features used and linking to API docs
-
-**License** section (tip: choosealicense.com) in the form "SPDX&copy; First Second" ("MIT &copy; Nathan Keyzer")
-
 https://nathankeyzer.github.io/fe3-assessment-1/
